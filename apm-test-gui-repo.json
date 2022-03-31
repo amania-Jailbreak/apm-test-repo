@@ -1,60 +1,60 @@
-[
-	"top":{
-		"1":{
+{
+	"top": {
+		"1": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		},
-		"2":{
+		"2": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		},
-		"3":{
+		"3": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		},
-		"4":{
+		"4": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		},
-		"5":{
+		"5": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		},
-		"6":{
+		"6": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		},
-		"7":{
+		"7": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		},
-		"8":{
+		"8": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
 			"name": "Youtube",
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		}
-	},
-]
+	}
+}
