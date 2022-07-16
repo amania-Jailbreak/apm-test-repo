@@ -1,11 +1,11 @@
 {
-	"top": {
+	"apps": {
 		"1": {
-			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
-			"name": "Youtube",
-			"ver": "17.12.34",
-			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
+			"icon": "https://www.antutu.com/Public/En/images/antutuv7.png",
+			"name": "Antutu",
+			"ver": "9.4.2",
+			"developer": "安兔兔",
+			"url": "https://file.antutu.com/soft/antutu_benchmark_v9_3d_lite.apk"
 		},
 		"2": {
 			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
@@ -13,48 +13,7 @@
 			"ver": "17.12.34",
 			"developer": "Google",
 			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
-		},
-		"3": {
-			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
-			"name": "Youtube",
-			"ver": "17.12.34",
-			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
-		},
-		"4": {
-			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
-			"name": "Youtube",
-			"ver": "17.12.34",
-			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
-		},
-		"5": {
-			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
-			"name": "Youtube",
-			"ver": "17.12.34",
-			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
-		},
-		"6": {
-			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
-			"name": "Youtube",
-			"ver": "17.12.34",
-			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
-		},
-		"7": {
-			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
-			"name": "Youtube",
-			"ver": "17.12.34",
-			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
-		},
-		"8": {
-			"icon": "https://1.bp.blogspot.com/-lTI8Ojt9yBs/XpBSWDaSy-I/AAAAAAABG7M/RbVcCgu0ntI1bTMfrGzBUa-JFTdeaZauwCLcBGAsYHQ/s1600/YouTubeIcon.png",
-			"name": "Youtube",
-			"ver": "17.12.34",
-			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
 		}
+		
 	}
 }
