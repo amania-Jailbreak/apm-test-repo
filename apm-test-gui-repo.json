@@ -5,19 +5,22 @@
 			"name": "Antutu",
 			"ver": "9.4.2",
 			"developer": "安兔兔",
+			"info":"様々なデバイスで利用できる 大手ベンチマークアプリ",
 			"url": "https://file.antutu.com/soft/antutu_benchmark_v9_3d_lite.apk"
 		},
 		"2": {
 			"icon": "https://cdn.discordapp.com/attachments/972414105598169118/998837107944595467/IMG_1358.png",
 			"name": "Youtube",
-			"ver": "17.12.34",
+			"ver": "17.27.35",
 			"developer": "Google",
-			"url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk"
+			"info":"新機能の説明や使用方法については、サービス内の案内や通知をご覧ください。",
+			"url": "https://download.apkpure.com/b/APK/Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmVfMTUzMDM4NzkwNF8zNTAyYjU1OA?_fn=WW91VHViZV92MTcuMjcuMzVfYXBrcHVyZS5jb20uYXBr&as=ad7c0a8cfab4986f0bcf84d3c35dd24362d6804c&ai=1714137372&at=1658224596&_sa=ai%2Cat&k=275d61621a2a2aed711f563a18465b7462d922d4&r=https%3A%2F%2Fm.apkpure.com%2Fjp%2Fyoutube%2Fcom.google.android.youtube&_p=Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmU&c=1%7CVIDEO_PLAYERS%7CZGV2PUdvb2dsZSUyMExMQyZ0PWFwayZzPTEzODAwNDA2MCZ2bj0xNy4yNy4zNSZ2Yz0xNTMwMzg3OTA0Jmh0PWUwMQ&ht=e01"
 		},
 		"3": {
 			"icon": "https://image.winudf.com/v2/image1/Y29tLmRpc2NvcmRfaWNvbl8xNjI2ODI3OTExXzA0Nw/icon.png?fakeurl=1",
 			"name": "Discord",
 			"ver": "126.20",
+			"info":"話そう、チャットしよう、集まろう",
 			"developer": "Discord Inc",
 			"url": "https://d-28.winudf.com/b/APK/Y29tLmRpc2NvcmRfMTI2MDIwXzExY2Y0ZTdi?_fn=RGlzY29yZCBUYWxrIENoYXQgSGFuZyBPdXRfdjEyNi4yMCAtIFN0YWJsZV9hcGtwdXJlLmNvbS5hcGs&_p=Y29tLmRpc2NvcmQ&am=39ke_6STE5mcxHkpAMmWHw&at=1658204431&download_id=otr_1137000356456940&k=0f8ad6db380269dbd75c2048fb5ec02c62d78290&r=https%3A%2F%2Fapkpure.com%2Fjp%2Fdiscord-talk-chat-hang-out%2Fcom.discord&uu=http%3A%2F%2F172.16.76.1%2Fb%2FAPK%2FY29tLmRpc2NvcmRfMTI2MDIwXzExY2Y0ZTdi%3Fk%3D45f43c7d82a0fd2709d90e52bd304ec262d78290"
 		}
